@@ -28,7 +28,7 @@ export const SOCIALS: SocialObjects = [
   },
  {
     name: "LinkedIn",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://linkedin.com/in/farhan-zainudin",
     linkTitle: `${SITE.title} on LinkedIn`,
     active: true,
   },
@@ -40,7 +40,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Twitter",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://twitter.com/mamlukzephyr",
     linkTitle: `${SITE.title} on Twitter`,
     active: false,
   },
