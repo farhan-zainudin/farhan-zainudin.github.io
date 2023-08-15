@@ -1,4 +1,16 @@
-# **Cheatsheet for AWS Tech U Associate Solutions Architect.**
+---
+author: Farhan Zainudin
+pubDatetime: 2023-08-15T04:43:55.518Z
+title: Cheatsheet for AWS Tech U
+postSlug: cheatsheet-for-aws-tech-u
+featured: true
+draft: false
+tags:
+  - docs
+ogImage: ""
+description:
+  My journey on navigating AWS Tech U interview process for solutions architect and professional services position.
+---
 
 *2021 Update
 
