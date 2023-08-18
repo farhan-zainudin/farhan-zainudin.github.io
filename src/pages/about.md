@@ -5,7 +5,9 @@ title: "About"
 
 Hey welcome to my personal blog. I am a Site Reliability Engineer based in Malaysia with 3+ years of experience.
 
-Cloud Native Architecture and DevOps movement have been something that peak my curiosity throughout my careers.
+Cloud Native Architecture and DevOps movement have been something that peak my curiosity throughout my career.
+
+I am a firm believer in Continuous Learning and try to share my knowledge with others as much as possible.
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
@@ -14,10 +16,6 @@ Cloud Native Architecture and DevOps movement have been something that peak my c
 ## Tech Stack
 
 Here are some of the technology that I have worked on but not limited to:-
-
-## Features
-
-Here are certain features of this site.
 
 - Cloud Environments: AWS (EC2, VPC, IAM, RDS, S3, CloudWatch, AWS Transfer Family)
 - Linux systems: CentOS, Ubuntu, Redhat
@@ -29,4 +27,4 @@ Here are certain features of this site.
 - Continuous integration, deployment, and delivery: Jenkins, Gitlab, Github, CodeCommit, CodeBuild
 - Databases: MySQL Server and MS SQLServer
 
-I am always happy to chat if you have the same interest! You can connect with me on [linkedin](https://www.linkedin.com/in/farhan-zainudin/).
+I am always happy to chat if you have the same interest! You can connect with me on [LinkedIn](https://www.linkedin.com/in/farhan-zainudin/).
