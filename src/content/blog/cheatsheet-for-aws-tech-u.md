@@ -6,7 +6,7 @@ postSlug: cheatsheet-for-aws-tech-u
 featured: true
 draft: false
 tags:
-  - docs
+  - career
 ogImage: ""
 description:
   My journey on navigating AWS Tech U interview process for solutions architect and professional services position.
