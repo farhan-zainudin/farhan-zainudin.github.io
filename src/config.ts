@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://farhan-zainudin.github.io/",
   author: "Farhan Zainudin",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  title: "MamlukZephyr",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -26,7 +26,7 @@ export const SOCIALS: SocialObjects = [
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
- {
+  {
     name: "LinkedIn",
     href: "https://linkedin.com/in/farhan-zainudin",
     linkTitle: `${SITE.title} on LinkedIn`,
@@ -44,4 +44,4 @@ export const SOCIALS: SocialObjects = [
     linkTitle: `${SITE.title} on Twitter`,
     active: true,
   },
-  ];
+];
