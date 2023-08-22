@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://mamlukzephyr.xyz/",
   author: "Farhan Zainudin",
   desc: "A place where I try to put my thoughts together.",
-  title: "MamlukZephyr",
+  title: "Mamluk Zephyr",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
