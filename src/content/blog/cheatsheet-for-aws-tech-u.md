@@ -90,7 +90,7 @@ Based on my experience, this will be your last round of interview. Wohooo! but d
 
 ## **My overall recommendation**
 
-- Please make sure that you read about the 14 Leadership Principles (LP). This principles is what makes Amazon unique and they wholeheartedly devoted to it. You can clearly see their behavior, the way they speak and explain will always based on this 14 LP. Review and create at least 2 story for each LPs  (2*14 = 28 stories) related to your past experience using a STAR method. Use the following link for better understanding about the 14 LPs and STAR method
+- Please make sure that you read about the 16 Leadership Principles (LP). This principles is what makes Amazon unique and they wholeheartedly devoted to it. You can clearly see their behavior, the way they speak and explain will always based on this 16 LP. Review and create at least 2 story for each LPs  (2*16 = 32 stories) related to your past experience using a STAR method. Use the following link for better understanding about the 16 LPs and STAR method
   - https://www.amazon.jobs/en/principles
   - https://www.amazon.jobs/en/landing_pages/in-person-interview
 - For the technical part, they will be asking you multiple questions like a machine gun hahah I am not even kidding. You need to know about OS, Networking, Databases, Distributed System, Machine Learning and etc. The representative will ask you questions after questions because they want to know your current knowledge level.
