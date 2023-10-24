@@ -18,7 +18,7 @@ Here are some of the technology that I have worked on but not limited to:-
 - Continuous integration, deployment, and delivery: Jenkins, Gitlab, Github, CodeCommit, CodeBuild
 - Databases: MySQL Server and MS SQLServer
 
-I am always happy to chat if you have the same interest! You can connect with me on [LinkedIn](https://www.linkedin.com/in/farhan-zainudin/).
+I am always happy to chat if you have the same interest! You can connect with me on [LinkedIn](https://www.linkedin.com/in/farhan-zainudin/) or [X] (https://twitter.com/mamlukzephyr/).
 
 ## ☎️ Contact information
 
