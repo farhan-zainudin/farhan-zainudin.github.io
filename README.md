@@ -2,9 +2,9 @@
 
 > I am a Site Reliability Engineer based in Malaysia with 3+ years of experience.
 
-  Cloud Native Architecture, Distributed System and DevOps movement have been something that piqued my interest throughout my career.
+> Cloud Native Architecture, Distributed System and DevOps movement have been something that piqued my interest throughout my career.
 
-  I am a firm believer in Continuous Learning and try to share my knowledge with others as much as possible.
+> I am a firm believer in Continuous Learning and try to share my knowledge with others as much as possible.
 
 ## Tech Stack
 
