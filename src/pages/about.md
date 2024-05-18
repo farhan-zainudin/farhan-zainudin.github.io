@@ -3,9 +3,9 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Hey welcome to my personal blog. I am a Site Reliability Engineer based in Malaysia with 3+ years of experience.
+Hey welcome to my personal blog. I am a Technology Engineer based in Malaysia with 3+ years of experience.
 
-Cloud Native Architecture, Distributed System and DevOps movement have been something that piqued my interest throughout my career.
+Cloud Native Architecture, Distributed Systems and DevOps movement have been something that piqued my interest throughout my career.
 
 I am a firm believer in Continuous Learning and try to share my knowledge with others as much as possible.
 
@@ -15,7 +15,7 @@ I am a firm believer in Continuous Learning and try to share my knowledge with o
 
 ## Tech Stack
 
-Here are some of the technology that I have worked on but not limited to:-
+Here are some of the technologies that I have worked on but not limited to:-
 
 - Cloud Environments: AWS (EC2, VPC, IAM, RDS, S3, CloudWatch, AWS Transfer Family)
 - Linux systems: CentOS, Ubuntu, Redhat
