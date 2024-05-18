@@ -20,10 +20,6 @@ Going to work with the question of whether “Can I log in again tomorrow?” wa
 
 For the first time, I felt that “Wow tech industry is not the one with the most **job security** ya”. It honestly felt scary and something that I do not want to encounter again 🥲 Spoiler alert! (Little that I know it was just the beginning, till Q2 2024 more than 500k people have been let go from their roles in the tech industry globally.) Anyway, I am expecting my name to be on the list when the wave hits the APAC region and eventually Malaysia. I am just waiting for the severance package and oh boy I was wrong again. My name was not on the list and it hit me hard when I got a message from my close colleagues that he was impacted.
 
-![    The numbers add up to over 500k employees](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d2f1e9d-460e-4a4d-9f8f-46ba31dff2de/4cec4b5a-73d3-44d1-8b36-7d8a56a02dd9/Untitled.png)
-
-    The numbers add up to over 500k employees
-
 Personally, I was super pissed off. The management was not clear on what metrics someone was being cut. The survivor guilt was too much to handle and you know what two weeks after that I submitted my resignation. Best feeeeeeling everr! For the first time, I felt empowered! (Eceyh poyo!)
 
 If you noticed I used a lot of **“I feel”** Maybe my decision was mainly driven by feelings and not logical reasoning. But you know what sometimes it's good to just **“feel”** and say f it instead of thinking too much and suffering the pain of inaction.
