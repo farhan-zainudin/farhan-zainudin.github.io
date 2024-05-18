@@ -3,7 +3,7 @@ author: Farhan Zainudin
 pubDatetime: 2018-12-02T04:43:55.518Z
 title: Internship experience with Maybank
 postSlug: internship-experience-with-maybank
-featured: true
+featured: false
 draft: false
 tags:
   - career
