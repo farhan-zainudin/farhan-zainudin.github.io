@@ -3,8 +3,8 @@ author: Farhan Zainudin
 pubDatetime: 2024-05-18T15:00:14.454Z
 title: “You should probably quit your job, this is why”
 postSlug: you-should-probably-quit-your-job
-featured: false
-draft: true
+featured: true
+draft: false
 tags:
   - career
 ogImage: ""
